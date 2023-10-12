@@ -25,7 +25,6 @@ table[is="tree-view-table"] {
 
 /* Height of item in tree on left side */
 :is(ul, ol):is([role="tree"], [role="group"]) li > div {
-  __min-height: 22px !important;
   line-height: 2em;
 }
 ```
