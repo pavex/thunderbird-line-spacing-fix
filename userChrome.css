@@ -1,0 +1,15 @@
+/* Height of menu bar */
+toolbar {
+  min-height: 28px !important;
+}
+
+/* Height od row in message list */
+table[is="tree-view-table"] {
+  line-height: 2em !important;
+}
+
+/* Height of item in tree on left side */
+:is(ul, ol):is([role="tree"], [role="group"]) li > div {
+  __min-height: 22px !important;
+  line-height: 2em;
+}
