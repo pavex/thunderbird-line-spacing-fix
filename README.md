@@ -10,7 +10,7 @@ Here I am attaching instructions on how I solved the situation.
 
 First, enable your own style according to this guide: https://github.com/Aris-t2/CustomCSSforTb
 
-You are using customChrome.css which is part of this repository.
+You are using userChrome.css which is part of this repository.
 
 ```css
 /* Height of menu bar */
